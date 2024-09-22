@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 229196d27c9c7fc4da432cfe5499429b, type: 3}
+  m_Name: Szeth
+  m_EditorClassIdentifier: 
+  name: Szeth
+  description: "I am not good at being a person. It is \u2026 a failing of mine."
+  artwork: {fileID: 21300000, guid: 858ecd8fa7b2693478bc2e2c49bca0eb, type: 3}
+  manaCost: 8
+  attack: 8
+  health: 5
