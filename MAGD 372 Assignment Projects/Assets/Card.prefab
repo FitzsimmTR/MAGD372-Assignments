@@ -346,16 +346,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 2375758488706610877}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81b9379e27093cd469ac394adb1b703f, type: 3}
+  m_Script: {fileID: 11500000, guid: 338be955949fbf748bb57816061ed567, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  card: {fileID: 11400000, guid: 034e737a592181443a3e5a2abb3a66a8, type: 2}
-  nameText: {fileID: 3419284748256079326}
-  descriptionText: {fileID: 1570435152762334944}
-  artworkImage: {fileID: 7160760075491969770}
-  manaText: {fileID: 2751173729944889055}
-  attackText: {fileID: 8564331256600239880}
-  healthText: {fileID: 961502638453217659}
+  card: {fileID: 11400000, guid: f9f5e9ef89ad3ef4faba171685f5a344, type: 2}
+  nameText: {fileID: 0}
+  descriptionText: {fileID: 0}
+  artworkImage: {fileID: 0}
+  manaText: {fileID: 0}
+  attackText: {fileID: 0}
+  healthText: {fileID: 0}
 --- !u!1 &2624335636882452375
 GameObject:
   m_ObjectHideFlags: 0
